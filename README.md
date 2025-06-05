@@ -1,11 +1,10 @@
-### 💫 About Me:
----
+### ✨ About Me:
 
 Hi, I'm Yahya Elserhan. I'm an Information Systems Engineering student at Sakarya University.  
 I'm passionate about backend development, algorithms, and building scalable systems.  
-Currently working with C#, C++, Python and modern web technologies.
+Currently working with C#, C++, Python, and modern web technologies.
 
----
+<hr>
 
 ### 🌐 Socials:
 
@@ -17,13 +16,13 @@ Currently working with C#, C++, Python and modern web technologies.
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
 </a>
 
----
+<hr>
 
 ### 📬 Contact:
 
 📧 yahyaserhanmoon@gmail.com
 
----
+<hr>
 
 ### 🛠️ Languages and Tools:
 
@@ -38,7 +37,7 @@ Currently working with C#, C++, Python and modern web technologies.
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
 </p>
 
----
+<hr>
 
 ### 📊 Most Used Languages:
 
