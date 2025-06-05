@@ -1,8 +1,8 @@
-### ✨ About Me:
+###✨ About Me:
 
-Hi, I'm Yahya Elserhan. I'm an Information Systems Engineering student at Sakarya University.  
-I'm passionate about backend development, algorithms, and building scalable systems.  
-Currently working with C#, C++, Python, and modern web technologies.
+ Hi, I'm Yahya Elserhan. I'm an Information Systems Engineering student at Sakarya University.  
+ I'm passionate about backend development, algorithms, and building scalable systems.  
+ Currently working with C#, C++, Python, and modern web technologies.
 
 <hr>
 
