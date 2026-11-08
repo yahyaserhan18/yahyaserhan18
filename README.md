@@ -1,7 +1,8 @@
 ## 💫 About Me:
-Hi, I'm Yahya Elserhan.  
-I'm an Information Systems Engineering student at Sakarya University.  
-I'm passionate about backend development, algorithms, and building scalable systems.
+Hi, I'm Yahya Elserhan.
+I'm a Software Engineer at Reven, specializing in backend architecture and REST APIs. 
+I hold a B.S. in Information Systems Engineering from Sakarya University.
+I'm passionate about backend development (Go, NestJS), algorithms, and building scalable systems.
 
 <br>
 
